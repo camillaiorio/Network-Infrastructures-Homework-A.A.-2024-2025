@@ -3,6 +3,8 @@ This repository contains the complete solution to the *Network Infrastructures* 
 
 **All tasks were completed successfully, earning full marks (18/18).**
 
+![Network Topology](NITopology.png)
+
 ## Structure
 
 The lab is organized according to Kathará's requirements, with the following components:
